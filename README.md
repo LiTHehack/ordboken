@@ -6,5 +6,5 @@ där du ber oss förklara ordet, så ska vi gra så gott vi kan!
 
 ## Termer
 
-* **regex** – ett sätt att strukturera upp sök-termer för strängar. Det kan till exempel handla om att skapa ett regex-mönster för att kolla att en epostadress stämmer.
+* **regex** – Förkortning för Regular Expression. Ett sätt att söka efter träffar i strängar med hjälp av förutbestämda regler. Det kan till exempel handla om att skapa ett regex-mönster för att kolla att en epostadress stämmer. Läs mer och test regular expresions [här](http://www.regexr.com/).
 * **pull request** – ett verktyg för att arbeta med kodgranskning på GitHub eller motsvarande. En användare kan då skapa en *pull request*, och på så sätt be någon annan kolla på arbetet och sammanfoga det med resten av koden.
